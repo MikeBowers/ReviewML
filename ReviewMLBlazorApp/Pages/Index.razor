@@ -1,0 +1,37 @@
+﻿@page "/"
+
+<h1>ReviewAnalysis with ML</h1>
+
+I use Machine Learning to determine whether your review is Positive or Negative.<br />
+Give it a try!
+<br />
+<br />
+<br />
+<input value="@CurrentValue"
+       @onchange="@((ChangeEventArgs __e) => CurrentValue =
+        __e.Value.ToString())" />
+
+<button class="btn btn-primary" @onclick="AnalyzeText">Analyze</button>
+<br />
+<br />
+<br />
+<p>Current Determination: @Result</p>
+
+<p>Bot Confidence: </p>
+<p>Positive: @PositiveConfidenceScore | Negative: @NegativeConfidenceScore </p>
+
+@code {
+
+    public string PositiveConfidenceScore { get; set; } = "";
+    public string NegativeConfidenceScore { get; set; } = "";
+    public string CurrentValue { get; set; } = "";
+
+    public string Result { get; set; } = "";
+
+    private void AnalyzeText()
+    {
+        Result = Program.AnalyzeInput(CurrentValue).Prediction;
+        PositiveConfidenceScore = Program.AnalyzeInput(CurrentValue).Score[0].ToString();
+        NegativeConfidenceScore = Program.AnalyzeInput(CurrentValue).Score[1].ToString();
+    }
+}

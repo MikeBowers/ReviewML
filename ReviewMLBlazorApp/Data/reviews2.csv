@@ -1,0 +1,47 @@
+this is nice,Positive
+this is not nice,Negative
+this is not bad,Positive
+this is cool,Positive
+this is bad,Negative
+this is ugly,Negative
+awesome,Positive
+lame,Negative
+stupid,Negative
+ugly,Negative
+cool,Positive
+stupid, Negative
+Beautiful,Positive
+Waste,Negative
+funny,Positive
+Actually I really like this,Positive
+Waste of time,Negative
+Hard,Negative
+Bad UI,Negative
+I like it,Positive
+Good idea,Positive
+Good ML,Positive
+Neat,Positive
+Neat site,Positive
+Tasted bad,Negative
+tasty,Positive
+Yummy,Positive
+Will be back,Positive
+Will not be back,Negative
+Terrible,Negative
+Good,Positive
+Positive,Positive
+Trash,Negative
+I would not come back,Negative
+I will be back,Positive
+Cheap,Negative
+Bad quality,Negative
+Good quality,Positive
+Quality stuff,Positive
+Smart,Positive
+Stupid,Negative
+Shitty,Negative
+Shit,Negative
+Amazing,Positive
+Eww,Negative
+Gross,Negative
+Good experience,Positive

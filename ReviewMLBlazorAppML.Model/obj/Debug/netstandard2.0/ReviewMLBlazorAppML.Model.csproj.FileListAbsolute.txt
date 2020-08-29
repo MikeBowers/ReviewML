@@ -1,0 +1,10 @@
+A:\MoreGithub\ReviewML\ReviewMLBlazorAppML.Model\bin\Debug\netstandard2.0\MLModel.zip
+A:\MoreGithub\ReviewML\ReviewMLBlazorAppML.Model\bin\Debug\netstandard2.0\ReviewMLBlazorAppML.Model.deps.json
+A:\MoreGithub\ReviewML\ReviewMLBlazorAppML.Model\bin\Debug\netstandard2.0\ReviewMLBlazorAppML.Model.dll
+A:\MoreGithub\ReviewML\ReviewMLBlazorAppML.Model\bin\Debug\netstandard2.0\ReviewMLBlazorAppML.Model.pdb
+A:\MoreGithub\ReviewML\ReviewMLBlazorAppML.Model\obj\Debug\netstandard2.0\ReviewMLBlazorAppML.Model.csprojAssemblyReference.cache
+A:\MoreGithub\ReviewML\ReviewMLBlazorAppML.Model\obj\Debug\netstandard2.0\ReviewMLBlazorAppML.Model.AssemblyInfoInputs.cache
+A:\MoreGithub\ReviewML\ReviewMLBlazorAppML.Model\obj\Debug\netstandard2.0\ReviewMLBlazorAppML.Model.AssemblyInfo.cs
+A:\MoreGithub\ReviewML\ReviewMLBlazorAppML.Model\obj\Debug\netstandard2.0\ReviewMLBlazorAppML.Model.csproj.CoreCompileInputs.cache
+A:\MoreGithub\ReviewML\ReviewMLBlazorAppML.Model\obj\Debug\netstandard2.0\ReviewMLBlazorAppML.Model.dll
+A:\MoreGithub\ReviewML\ReviewMLBlazorAppML.Model\obj\Debug\netstandard2.0\ReviewMLBlazorAppML.Model.pdb
